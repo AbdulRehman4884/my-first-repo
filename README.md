@@ -6,4 +6,3 @@ This line added in conflict-branch
 
 # collaboration section
 changes made by collaborator
-This is a MISTAKE
